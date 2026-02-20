@@ -14,17 +14,17 @@ BCA_class_lecture/
 │
 ├── 1st_Sem/
 │   ├── Books/
-│   └── Notes/
+│   └── Class Notes/
 │   
 ├── 2nd_Sem/
 │   ├── Books/
-│   └── Notes/
+│   └── Class Notes/
 │       
 ├── 3rd_Sem/
 │   ├── Books/   
-│   └── Notes/
+│   └── Class Notes/
 │       
 └── 4th_Sem/
     ├── Books/
-    └── Notes/
+    └── Class Notes/
 ```
