@@ -22,10 +22,10 @@ We welcome all kinds of contributions that improve this repository.
    ```
    git commit -m "Added new notes for subject XYZ"
    ```
-5. Push to your fork:
+5. Push you code:
 
    ```
-   git push origin feature-name
+   git push origin 
    ```
 
 6. Open a Pull Request
