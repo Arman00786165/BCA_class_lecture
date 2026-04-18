@@ -14,7 +14,8 @@ BCA_class_lecture/
 │
 ├── 1st_Sem/
 │   ├── Books/
-│   └── Class Notes/
+│   ├── Class Notes/
+│   └── PYQs/
 │   
 ├── 2nd_Sem/
 │   ├── Books/
